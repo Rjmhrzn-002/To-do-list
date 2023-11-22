@@ -1,0 +1,17 @@
+{
+  "dependencies": {
+    "tailwindcss": "^3.3.5"
+  },
+  "name": "todo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "start": "vite",
+    "build-css": "tailwindcss build src/styles.css -o public/styles.css"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
